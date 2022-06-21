@@ -1,1 +1,1 @@
-# BMI calculator
+# BMI calculator by Pisna Anastasiia
